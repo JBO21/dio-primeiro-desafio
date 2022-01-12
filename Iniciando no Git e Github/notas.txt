@@ -1,0 +1,33 @@
+
+O que aprendi Git/Github
+-Navegação em pastas atraves de linha de comando
+-Funcionamento por trás do Git, Blob, Tree e Comit
+- Gerar chave SSH e autenticar no github
+- Comandos push, pull, commit e clone
+- Criar repositório
+- Resolver conflito de versão (merge)
+- Documento Markdown
+
+Ojetos do Git
+Blobs, Trees e Commits
+
+
+ __________
+comando no bash do git para gerar uma chave ssh:
+ssh-keygen -t ed25519 -c "seu e-mail do github"
+va ao onde a chave foi salva 
+Local do meu pc de casa onde esta salva a chave: c/Users/JBO/.ssh/id_ed25519 - senha usada Kitsune#963
+
+no bash do git navegar ate a pasta acima 
+comando ls para listar os arquivos da pasta
+comando para rodar o arquivo pub da chave criada pra colocar o github:  cat id_ed25519.pub, apertar enter a informação abaixo será o que será inserido no github - No Github, Clica na sua imagem, Settings, SSH and GPG Keys, em SSH clicar em New SSH Key
+
+fazer um "agente" no bash
+comando: eval $(ssh-agent -s)
+passar a chave para o agente
+comando: ssh-add id_ed25519
+
+_____
+Iniciar comandos Git
+
+
