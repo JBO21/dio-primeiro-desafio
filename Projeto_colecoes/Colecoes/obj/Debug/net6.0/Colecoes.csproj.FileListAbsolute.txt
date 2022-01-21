@@ -13,3 +13,18 @@ C:\Users\finan\Desktop\Pessoal\Localiza Labs\Projeto_colecoes\Colecoes\obj\Debug
 C:\Users\finan\Desktop\Pessoal\Localiza Labs\Projeto_colecoes\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
 C:\Users\finan\Desktop\Pessoal\Localiza Labs\Projeto_colecoes\Colecoes\obj\Debug\net6.0\Colecoes.pdb
 C:\Users\finan\Desktop\Pessoal\Localiza Labs\Projeto_colecoes\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
+D:\Localiza_Labs\dio-primeiro-desafio\Projeto_colecoes\Colecoes\bin\Debug\net6.0\Colecoes.exe
+D:\Localiza_Labs\dio-primeiro-desafio\Projeto_colecoes\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+D:\Localiza_Labs\dio-primeiro-desafio\Projeto_colecoes\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+D:\Localiza_Labs\dio-primeiro-desafio\Projeto_colecoes\Colecoes\bin\Debug\net6.0\Colecoes.dll
+D:\Localiza_Labs\dio-primeiro-desafio\Projeto_colecoes\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+D:\Localiza_Labs\dio-primeiro-desafio\Projeto_colecoes\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+D:\Localiza_Labs\dio-primeiro-desafio\Projeto_colecoes\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+D:\Localiza_Labs\dio-primeiro-desafio\Projeto_colecoes\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Localiza_Labs\dio-primeiro-desafio\Projeto_colecoes\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+D:\Localiza_Labs\dio-primeiro-desafio\Projeto_colecoes\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+D:\Localiza_Labs\dio-primeiro-desafio\Projeto_colecoes\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+D:\Localiza_Labs\dio-primeiro-desafio\Projeto_colecoes\Colecoes\obj\Debug\net6.0\Colecoes.dll
+D:\Localiza_Labs\dio-primeiro-desafio\Projeto_colecoes\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+D:\Localiza_Labs\dio-primeiro-desafio\Projeto_colecoes\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+D:\Localiza_Labs\dio-primeiro-desafio\Projeto_colecoes\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache

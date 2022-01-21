@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\finan\\.nuget\\packages\\": {}
+    "C:\\Users\\JBO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\finan\\Desktop\\Pessoal\\Localiza Labs\\Projeto_colecoes\\Colecoes\\Colecoes.csproj",
+      "projectUniqueName": "D:\\Localiza_Labs\\dio-primeiro-desafio\\Projeto_colecoes\\Colecoes\\Colecoes.csproj",
       "projectName": "Colecoes",
-      "projectPath": "C:\\Users\\finan\\Desktop\\Pessoal\\Localiza Labs\\Projeto_colecoes\\Colecoes\\Colecoes.csproj",
-      "packagesPath": "C:\\Users\\finan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\finan\\Desktop\\Pessoal\\Localiza Labs\\Projeto_colecoes\\Colecoes\\obj\\",
+      "projectPath": "D:\\Localiza_Labs\\dio-primeiro-desafio\\Projeto_colecoes\\Colecoes\\Colecoes.csproj",
+      "packagesPath": "C:\\Users\\JBO\\.nuget\\packages\\",
+      "outputPath": "D:\\Localiza_Labs\\dio-primeiro-desafio\\Projeto_colecoes\\Colecoes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\finan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\JBO\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

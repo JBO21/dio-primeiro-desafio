@@ -9,14 +9,23 @@ namespace Colecoes
         {
             OperacoesLista op = new OperacoesLista();
             int[] lista = new int[5] {10, 8, 21, 5, 9};
+            int[] listaCopia = new int[10];
 
             System.Console.WriteLine("Lista Original");
             op.ImprimirLista(lista);
 
-            op.UsarBubleSort(ref lista);
+            //op.UsarBubleSort(ref lista);
 
-            System.Console.WriteLine("Lista Ordenada");
-            op.ImprimirLista(lista);
+            //op.Ordenar(ref lista);
+
+            //System.Console.WriteLine("Lista Ordenada");
+            //op.ImprimirLista(lista);
+
+            System.Console.WriteLine("Lista antes da cópia");
+            op.ImprimirLista(listaCopia);
+            op.Copiar(ref lista, ref listaCopia);
+            System.Console.WriteLine("Array apos copia");
+            op.ImprimirLista(listaCopia);
             
 
             // int[,] matriz = new int[4, 2]

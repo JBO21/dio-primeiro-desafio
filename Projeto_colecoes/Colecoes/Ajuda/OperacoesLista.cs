@@ -1,3 +1,5 @@
+using System;
+
 namespace Colecoes.Ajuda
 {
     public class OperacoesLista
@@ -24,6 +26,16 @@ namespace Colecoes.Ajuda
             var linha = string.Join(", ", lista);
             System.Console.WriteLine(linha);                
             
+        }
+
+        public void Ordenar(ref int[] lista)
+        {
+            Array.Sort(lista);
+        }
+
+        public void Copiar(ref int[] lista , ref int[] listaDestino)
+        {
+            Array.Copy(lista, listaDestino, lista.Length);
         }
     }
 }
